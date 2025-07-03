@@ -1,0 +1,1 @@
+This repository contains a comprehensive guide and practical implementations of feature engineering techniques used in machine learning workflows. It is designed for data scientists, ML enthusiasts, and learners who want to enhance model performance through better feature design and transformation.
